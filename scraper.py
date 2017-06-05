@@ -2,7 +2,6 @@
 import scraperwiki
 import csv
 import lxml.html
-
 allcsvs = 'http://www.tennis-data.co.uk/usopen.php'
 baseurl = 'http://www.tennis-data.co.uk/'
 idno = 0
